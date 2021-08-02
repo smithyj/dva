@@ -1,12 +1,12 @@
 {
-  "name": "dva",
-  "version": "2.4.1",
+  "name": "@smithyj/dva",
+  "version": "2.4.2",
   "description": "React and redux based, lightweight and elm-style framework.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvajs/dva"
+    "url": "https://github.com/smithyj/dva"
   },
-  "homepage": "https://github.com/dvajs/dva",
+  "homepage": "https://github.com/smithyj/dva",
   "keywords": [
     "dva",
     "alibaba",
@@ -19,7 +19,8 @@
     "frontend"
   ],
   "authors": [
-    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)",
+    "smithyj <624508914@qq.com> (https://github.com/smithyj)"
   ],
   "license": "MIT",
   "bugs": {
